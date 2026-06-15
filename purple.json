@@ -40,55 +40,55 @@
             "#A020F0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#6A1B9A"
+            "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
             "#A020F0"
         ],
         "BACKGROUND_TERTIARY": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#A020F0"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#A020F0"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#6A1B9A"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#6A1B9A"
+            "#000000"
         ],
         "EMBED_BACKGROUND": [
             "#6A1B9A"
         ],
         "BACKGROUND_MENTIONED": [
-            "#A020F0"
+            "#000000"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#6A1B9A"
@@ -148,7 +148,7 @@
             "#A020F0"
         ],
         "CHAT_BACKGROUND": [
-            "#6A1B9A"
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
             "#6A1B9A"
