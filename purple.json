@@ -201,11 +201,17 @@
         "PLUM_26": "#000000",
         "PLUM_22": "#000000",
         "PLUM_24": "#000000"
-    },
+},
     "plus": {
         "version": 0,
         "mentionLineColor": "#A020F0",
         "iconpack": "materialtwotone"
+    },
+    "background": {
+        "blur": 0.6,
+        "url":
+"https://raw.githubusercontent.com/Astro-15/PurpleBunnyTheme/main/Background/IMG_5536.jpeg",
+        "alpha": 1
     },
     "spec": 2
 }
