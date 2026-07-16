@@ -40,10 +40,10 @@
             "#A020F0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#A020F0"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#A020F0"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#000000"
@@ -55,7 +55,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#A020F0"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
