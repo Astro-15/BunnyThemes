@@ -11,7 +11,7 @@ Green
 https://raw.githubusercontent.com/Astro-15/BunnyThemes/main/green.json
 
 Light Blue 
-https://raw.githubusercontent.com/Astro-15/BunnyThemes/main/lightble.json
+https://raw.githubusercontent.com/Astro-15/BunnyThemes/main/lightblue.json
 
 Dark Blue 
 https://raw.githubusercontent.com/Astro-15/BunnyThemes/main/darkblue.json
